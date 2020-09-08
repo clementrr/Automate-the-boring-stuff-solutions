@@ -15,7 +15,7 @@ Chapter 4 - Lists
 
 Chapter 5 – Dictionaries and Structuring Data
 
-
+   [Fantasy Game Inventory](https://github.com/clementrr/automate-the-boring-stuff-solutions/blob/master/fantasy-game-inventory.ipynb)
 
 Chapter 6 – Manipulating Strings
 
