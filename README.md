@@ -4,8 +4,7 @@ These are my solutions to projects in the book Automate [The Boring Stuff With P
 
 Chapter 3 - Functions
 
-    The Collatz Sequence
-
+   [The Collatz Sequence](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/collatz-sequence.ipynb)
 
 Chapter 4 - Lists
 
