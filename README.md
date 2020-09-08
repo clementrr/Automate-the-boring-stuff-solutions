@@ -16,6 +16,7 @@ Chapter 4 - Lists
 Chapter 5 – Dictionaries and Structuring Data
 
    [Fantasy Game Inventory](https://github.com/clementrr/automate-the-boring-stuff-solutions/blob/master/fantasy-game-inventory.ipynb)
+   
    [Chess Dictionary Validator](https://github.com/clementrr/automate-the-boring-stuff-solutions/blob/master/chess-dictionary-validator.ipynb)
 
 Chapter 6 – Manipulating Strings
