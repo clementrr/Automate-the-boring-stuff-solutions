@@ -1,5 +1,7 @@
 # Automate-the-boring-stuff-solutions
 
+These are my solutions to projects in the book Automate The Boring Stuff With Python by Al Sweigart
+
 Chapter 3 - Functions
 
     The Collatz Sequence
