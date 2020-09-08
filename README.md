@@ -1,6 +1,6 @@
 # Automate-the-boring-stuff-solutions
 
-These are my solutions to projects in the book Automate [The Boring Stuff With Python by Al Sweigart](https://automatetheboringstuff.com/#toc)
+These are my solutions to projects in the book [Automate The Boring Stuff With Python by Al Sweigart](https://automatetheboringstuff.com/#toc)
 
 Chapter 3 - Functions
 
