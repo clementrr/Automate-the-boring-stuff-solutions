@@ -7,6 +7,7 @@ Chapter 3 - Functions
 Chapter 4 - Lists
 
    [Comma Code](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/comma-code.ipynb)
+   
    [Coin Flips Streaks](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/coin-flip-streaks.ipynb)
     
 Chapter 5 – Dictionaries and Structuring Data
