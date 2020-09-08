@@ -6,35 +6,20 @@ Chapter 3 - Functions
 
 Chapter 4 - Lists
 
-   [Comma Code](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/coin-flip-streaks.ipynb)
-    Character Picture Grid
-
+   [Comma Code](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/comma-code.ipynb)
+   [Coin Flips Streaks](https://github.com/clementrr/Automate-the-boring-stuff-solutions/blob/master/coin-flip-streaks.ipynb)
+    
 Chapter 5 – Dictionaries and Structuring Data
 
-    Fantasy Game Inventory
 
 Chapter 6 – Manipulating Strings
 
-    Table Printer
 
 Chapter 7 – Pattern Matching with Regular Expressions
 
-    Strong Pasword Detection
-    Regex Version Of Strip
-
 Chapter 8 – Reading and Writing Files
-
-    Extending The MultiClipboard
-    Mad Libs
-    Regex Search
 
 Chapter 9 – Organizing Files
 
-    Selective Copy
-    Deleting Unneeded Files
-    Filling In The Gaps
-
 Chapter 10 – Debugging
-
-    Debugging Coin Toss
 
